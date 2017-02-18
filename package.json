@@ -1,7 +1,7 @@
 {
   "name": "RevStackCore.IO.LocalSystem",
   "version": "1.0.0",
-  "description": "Local file system implementation of the IO repository pattern abstraction",
+  "description": "Local file system implementation of the RevStackCore IO repository pattern abstraction",
   "main": "RevStackCore.IO.LocalSystem.sln",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
