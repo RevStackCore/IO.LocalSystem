@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.IO.LocalSystem",
+  "version": "1.0.0",
+  "description": "Local file system implementation of the IO repository pattern abstraction",
+  "main": "RevStackCore.IO.LocalSystem.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStackCore/IO.LocalSystem.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStackCore/IO.LocalSystem/issues"
+  },
+  "homepage": "https://github.com/RevStackCore/IO.LocalSystem"
+}
